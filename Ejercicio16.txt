@@ -1,0 +1,18 @@
+Proceso Ejercicio16
+	Var No1
+	Var No2
+	Var No3
+	Si No1 > No2 Entonces
+		Si No1 > No3 Entonces
+			Escribir "El mayor es: " + No1
+		FinSi
+	Sino No2 > No1 Entonces
+		Si No2 > No3 Entonces
+			Escribir "El Mayor es: " + No2
+		FinSi
+	Sino No3 > No1 Entonces
+		Si No3 > No2 Entonces
+			Escribir "El mayor es: " + No3
+		FinSi
+	FinSi
+FinProceso
