@@ -1,0 +1,12 @@
+Proceso Ejercicio8
+	Var No1
+	Var No2
+	Var No3
+	Var Prom
+	Escribir "Ingrese los 3 numeros"
+	Leer No1
+	Leer No2
+	Leer No3
+	Prom = (No1+No2+No3)/3
+	Escribir "El Promedio es de: " + Prom
+FinProceso
