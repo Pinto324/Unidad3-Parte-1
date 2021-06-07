@@ -1,0 +1,18 @@
+Proceso Ejercicio11
+	Var No
+	var Yard
+	Var M
+	Var Pie
+	Var Pulg
+	Escribir "Ingrese la cantidad en centimetros"
+	Leer No
+	Yard = No/91.44
+	Pie = No/30.48
+	Pulg = No/2.54
+	M = No/100
+	Escribir "El valor en centimetros es: " + No
+	Escribir "El valor en Metros es: " + M
+	Escribir "El valor en Yardas es: " + Yard
+	Escribir "El valor en Pies es: " + Pie
+	Escribir "El valor en Pulgadas es: " + Pulg
+FinProceso
