@@ -1,0 +1,24 @@
+Proceso Ejercicio18
+	Var Num
+	Var D1
+	Var D2
+	Var D3
+	Var D4
+	Escribir "Ingrese un numero de 4 digitos"
+	Leer Num
+	Escribir "La Longitud es de: " + Longitud(Num)
+	Si Longitud(Num) = 4 Entonces
+		D1 = Subcadena(Num,1,1)
+		D2 = Subcadena(Num,2,2)
+		D3 = Subcadena(Num,3,3)
+		D4 = Subcadena(Num,4,4)
+		Escribir "El primer digito es: " + D1
+		Escribir "El segundo digito es: " + D2
+		Escribir "El tercer digito es: " + D3
+		Escribir "El cuarto digito es: " + D4
+		Num = D1 + D2 + D3+ D4
+		Escribir "La suma de los 4 digitos es: " + Num
+	Sino 
+		"Solo puede ingresar numeros de 4 digitos"
+	Finsi
+FinProceso
