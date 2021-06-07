@@ -1,0 +1,13 @@
+Proceso Ejercicio19
+	Var No
+	No = Aleatorio(1,1000)
+	Si No < 25 Entonces
+		Si 25MODNo = 0 Entonces
+			"Correcto"
+		Sino 
+			"Incorrecto"
+		Finsi
+	Sino 
+		"Vuelve a intentarlo"
+	Finsi
+FinProceso
