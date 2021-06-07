@@ -1,0 +1,7 @@
+Proceso Ejercicio6
+	Var Numero
+	Numero = Aletorio(0,200)
+	Escribir "El numero elegido fue: " + Numero
+	Numero = Numero + (Numero * 30%)
+	Escribir "El numero Aumentado en un 30% es de: " + Numero
+FinProceso
