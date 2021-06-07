@@ -1,0 +1,16 @@
+Proceso Ejericio13
+	Var A
+	Var R
+	Var pi
+	Var Vol
+	Escribir "Ingrese el altura y luego radio"
+	Leer A
+	Leer R
+	Si A > 0 && R > 0 Entonces
+		pi = 3.1416
+		Vol = pi*(R*R)*A
+		Escribir "El Volumen es de: " + Vol
+	Sino 
+		Escribir "Uno de los valores es negativo por lo cual no se puede buscar el volumen"
+	finSi
+FinProceso
