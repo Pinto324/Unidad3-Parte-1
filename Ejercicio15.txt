@@ -1,0 +1,11 @@
+Proceso Ejercicio15
+	Var No
+	Si No >= 0 Entonces
+		Si No = 0 Entonces
+			Escribir "El numero es nulo"
+		Sino
+			Escribir "El Numero es positivo"
+	Sino
+		Escribir "El numero es negativo"
+	Finsi
+FinProceso
