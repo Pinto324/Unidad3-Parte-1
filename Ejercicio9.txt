@@ -1,0 +1,13 @@
+Proceso Ejercicio9
+	Var A
+	Var B
+	Var C
+	Escribir "Ingrese el contenido de A y luego el de B"
+	Leer A
+	Leer B
+	C = A
+	A = B
+	B = C
+	Escribir "El nuevo contenido de A es: " + A
+	Escribir "El nuevo contenido de B es: " + B
+FinProceso
