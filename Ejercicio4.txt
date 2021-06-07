@@ -1,0 +1,11 @@
+Proceso Ejercicio4
+	Var Numero
+	Var Cuadrado
+	Var Cubo
+	Escribir "Ingrese Numero"
+	Leer Numero
+	Cuadrado = Numero * Numero
+	Cubo = Numero * Numero * Numero
+	Escribir "El Cuadrado del numero es: " + Cuadrado
+	Escribir "El Cubo del numero es: " + Cubo
+FinProceso
