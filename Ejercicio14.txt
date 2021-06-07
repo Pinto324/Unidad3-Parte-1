@@ -1,0 +1,12 @@
+Proceso Ejercicio14
+	Var No1
+	Var No2
+	Escribir "Ingrese los 2 numeros"
+	Leer No1
+	Leer No2
+	Si No1 Mod No2 == 0 Entonces
+		Escribir "Es divisible"
+	Sino
+		Escribir "No es Divisible
+	FinSi
+FinProceso
