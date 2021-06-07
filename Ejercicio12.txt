@@ -1,0 +1,8 @@
+Proceso Ejercicio12
+	Var Temp
+	Var Fare
+	Escribir "Ingrese la temperatura en grados celsius"
+	Leer Temp
+	Fare = (Temp * 9/5) + 32
+	Escribir "El valor en grados farenheit es de: " + Fare
+FinProceso
