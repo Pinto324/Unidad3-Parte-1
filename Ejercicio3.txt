@@ -1,0 +1,11 @@
+Proceso Ejercicio3
+	Var Numero
+	Var Doble
+	Var Triple
+	Escribir Ingrese el numero
+	Leer Numero
+	Doble = Numero  2
+	Triple = Numero  3
+	Escribir El Doble es  + Doble
+	Escribir El Triple es  + Triple
+FinProceso
