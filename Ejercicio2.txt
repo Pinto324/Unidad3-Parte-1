@@ -1,0 +1,8 @@
+Proceso Ejercicio2
+	Var Capital
+	Var Pais
+	Escribir "Escriba la capital y el país"
+	Leer Capital
+	Leer Pais
+	Escribir Capital + " es la capital de " + Pais
+FinProceso
