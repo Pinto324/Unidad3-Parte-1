@@ -1,0 +1,7 @@
+Proceso Ejercicio7
+	Var Numero
+	Numero = Aletorio(10,50)
+	Escribir "El numero elegido fue: " + Numero
+	Numero = Numero - (Numero * 15%)
+	Escribir "El numero disminuido en un 15% es de: " + Numero
+FinProceso
