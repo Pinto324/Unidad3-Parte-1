@@ -1,0 +1,16 @@
+Proceso Ejercicio17
+	Var L1
+	Var L2
+	Var L3
+	Escribir "Escriba los lados del triangulo"
+	Leer L1
+	Leer L2
+	Leer L3
+	Si L1 = L2 && L2 = L3 Entonces
+		Escribir "El triangulo es equilatero"
+	Sino L1 = L2 | L2 = L3 && L1 > L3 | L2 > L1 Entonces
+		Escribir "El trinagulo es Isóceles"
+	Sino L1 no L2 && L2 no L3 Entonces
+		Escribir "El trinagulo es Escaleno"
+	Finsi
+FinProceso
