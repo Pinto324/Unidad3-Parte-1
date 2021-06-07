@@ -1,0 +1,13 @@
+Proceso Ejercicio10
+	Var Base
+	Var Altura
+	Var Area
+	Var Per
+	Escribir "Ingrese la base y luego la altura"
+	Leer Base
+	Leer Altura
+	Area = Base*Altura
+	Per = (Base*2)+(Altura*2)
+	Escribir "El area es de: " + Area
+	Escribir "El perimentro es de: " + Per
+FinProceso
