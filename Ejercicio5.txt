@@ -1,0 +1,8 @@
+Proceso Ejercicio5
+	Var Numero
+	Var NoSig
+	Escribir "Ingrese el numero inicial"
+	Leer Numero
+	NoSig = Numero + 1
+	Escribir "El numero siguiente es: " + NoSig
+FinProceso
